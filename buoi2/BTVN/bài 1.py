@@ -16,7 +16,7 @@ while True :
         if year > 0 : 
             break 
         else : 
-            print ( "Nhập lại !!! ") 
+            print ( "gitNhập lại !!! ") 
     except ValueError : 
         print ( " Lỗi ") 
 
